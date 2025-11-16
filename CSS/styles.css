@@ -2,8 +2,8 @@
 /*
    sample start file for final project - educational use only
    
-   Author:   
-   Date:     
+   Author:   Caleb Jones 
+   Date:     11-10-25
    
   
 
@@ -12,6 +12,11 @@
 * {
     margin: 0; 
     padding: 0;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 body {
